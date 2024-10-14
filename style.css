@@ -1,3 +1,4 @@
+@charset "UTF-8";
 * {
   margin: 0;
   padding: 0;
@@ -39,27 +40,27 @@ main section p {
 main section img {
   width: 20vw;
 }
-main .outrotopico {
+main .primeirotópico {
   background-color: #ff69b4;
   display: flex;
   justify-content: space-around;
   height: 50vh;
 }
-main .outrotopico p {
+main .primeirotópico p {
   width: 40vw;
   color: #e4eef1;
   font-size: 1.4rem;
 }
-main .outrotopico img {
+main .primeirotópico img {
   width: 37vw;
 }
 main section {
   align-items: center;
 }
-main .oi {
+main .imagensajuda {
   height: 63vh;
 }
-main .oi img {
+main .imagensajuda img {
   width: 20vw;
 }
 
@@ -70,7 +71,7 @@ footer {
   align-items: center;
   justify-content: space-between;
 }
-footer .oioi {
+footer .logosredes {
   height: 10vh;
   width: 20vw;
   display: flex;
@@ -80,7 +81,7 @@ footer section p {
   display: flex;
   justify-content: center;
 }
-footer .oioioi {
+footer .informações {
   width: 40vw;
   display: flex;
   flex-direction: column;
